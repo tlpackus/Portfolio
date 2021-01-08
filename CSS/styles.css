@@ -1,5 +1,5 @@
 img {
-  width: 300px;
+  width: 200px;
   float: left;
 }
 
@@ -19,4 +19,16 @@ h1 {
   background-color: rgb(18, 73, 59);
   margin-bottom: 10px;
   text-align: center;
+}
+
+.interests {
+  float: right;
+}
+
+.highlight {
+  color:green;
+}
+
+.high {
+  color:rgb(16, 211, 16);
 }
