@@ -1,5 +1,5 @@
 img {
-  width: 200px;
+  width: 250px;
   float: left;
 }
 
@@ -7,10 +7,15 @@ h1 {
   color: rgb(34, 192, 34);
 }
 
+h2 {
+  float: right;
+}
+
 .box1 {
   width: 100%;
+  padding: 5px;
   border: black;
-  border-width: 1px;
+  border-width: 10px;
   background-color: rgb(18, 73, 59);
   margin-bottom: 10px;
   text-align: center;
