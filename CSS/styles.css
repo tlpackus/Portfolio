@@ -1,6 +1,9 @@
 img {
   width: 200px;
   float: left;
+  margin: auto;
+  height: auto;
+  display: block;
 }
 
 h1 {
