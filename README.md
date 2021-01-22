@@ -14,7 +14,7 @@ A page to get to know me better and the projects I've been working on.
 ## Description
 
 This will be the page I will link my projects too, to represent my knowledge of various coding practices. I'll also have an About Me section to show some of my past work experiences and hobbies.
- 
+
 ## Installation
 
 - Click Code at the top right of the repository
@@ -29,6 +29,7 @@ This will be the page I will link my projects too, to represent my knowledge of 
 
 ## Link to GitHub
 
+https://github.com/tlpackus/Portfolio.git
 
 ## License
 MIT License
