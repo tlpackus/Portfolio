@@ -17,6 +17,8 @@ This will be the page I will link my projects too, to represent my knowledge of 
 
 ## Installation
 
+- Click on link to the live GihHub Pages site
+- If that doesn't work, try next steps
 - Click Code at the top right of the repository
 - Copy that url
 - Make a new directory in Terminal to clone this url into
@@ -27,7 +29,7 @@ This will be the page I will link my projects too, to represent my knowledge of 
 - Select "Open with Live Server"
 - There you can check out my Portfolio
 
-## Link to GitHub
+## Link to live GitHub Pages Site
 
 https://tlpackus.github.io/Portfolio
 
