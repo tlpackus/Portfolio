@@ -29,7 +29,7 @@ This will be the page I will link my projects too, to represent my knowledge of 
 
 ## Link to GitHub
 
-https://github.com/tlpackus/Portfolio.git
+https://tlpackus.github.io/Portfolio
 
 ## License
 MIT License
